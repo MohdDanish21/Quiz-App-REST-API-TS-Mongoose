@@ -1,0 +1,16 @@
+.login{
+    text-align: center;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+h5{
+    display: inline;
+    font-size: 11px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
